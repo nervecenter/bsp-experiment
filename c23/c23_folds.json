@@ -1,0 +1,78 @@
+{
+  "a": {
+    "test_sections": [
+      "p274",
+      "p301",
+      "p271"
+    ],
+    "validation_sections": [
+      "p277",
+      "p272"
+    ],
+    "training_sections": [
+      "p302",
+      "p270",
+      "p179",
+      "p300",
+      "p273",
+      "p177"
+    ]
+  },
+  "b": {
+    "test_sections": [
+      "p300",
+      "p177",
+      "p270"
+    ],
+    "validation_sections": [
+      "p179",
+      "p271"
+    ],
+    "training_sections": [
+      "p302",
+      "p274",
+      "p301",
+      "p272",
+      "p273",
+      "p277"
+    ]
+  },
+  "c": {
+    "test_sections": [
+      "p277",
+      "p179",
+      "p302"
+    ],
+    "validation_sections": [
+      "p270",
+      "p274"
+    ],
+    "training_sections": [
+      "p300",
+      "p301",
+      "p271",
+      "p273",
+      "p272",
+      "p177"
+    ]
+  },
+  "d": {
+    "test_sections": [
+      "p272",
+      "p273"
+    ],
+    "validation_sections": [
+      "p177",
+      "p300"
+    ],
+    "training_sections": [
+      "p274",
+      "p179",
+      "p277",
+      "p302",
+      "p270",
+      "p271",
+      "p301"
+    ]
+  }
+}
